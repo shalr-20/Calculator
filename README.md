@@ -30,6 +30,7 @@ ________________________________________________________________________________
 
 ## **Loops and Statements**
 * **Statement used:** Conditional statement - 'if'
+                      
                       Switch statement - Also contains 'break' and 'default'
 * **Loops used:** do while
 
