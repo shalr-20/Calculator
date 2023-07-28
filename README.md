@@ -1,6 +1,6 @@
 # **Mathematical Calculator**
 
-This is a simple mathematical calculator built using Java. It allows users to perform basic arithmetic operations such as additioon(+), subtraction(-), multiplication(*), and division(/). The calculator operates on two input numbers and provides the result of the chosen operation.
+This is a simple mathematical calculator built using Java. It allows users to perform basic arithmetic operations such as addition(+), subtraction(-), multiplication(*), and division(/). The calculator operates on two input numbers and provides the result of the chosen operation.
 
 ## **Features**
 
