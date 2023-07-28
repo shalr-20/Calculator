@@ -29,9 +29,7 @@ ________________________________________________________________________________
 * Compile the Java file using command :javac Calc.java
 
 ## **Loops and Statements**
-* **Statement used:** Conditional statement - 'if'
-                      
-                      Switch statement - Also contains 'break' and 'default'
+* **Statement used:** Conditional statement - 'if' **AND** Switch statement - Also contains 'break' and 'default'
 * **Loops used:** do while
 
 ## **Contributing**
