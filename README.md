@@ -5,7 +5,9 @@ This is a simple mathematical calculator built using Java. It allows users to pe
 ## **Features**
 
 **Takes 2 numbers:** Users can provide two numbers to as inputs.
+
 **Takes an operation:** Users can provide an operation as another input to perform calculation.
+
 **Continue or exit:** Users can continue their calculations without running the program several times and can exit when completed.
 ____________________________________________________________________________________________________________________________________________________________________
 
